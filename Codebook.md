@@ -2,7 +2,7 @@
 
 This Codebook give an overview about the data fields in TidySet.txt
 
-Activities
+###Activities
 
 WALKING
 WALKING_UPSTAIRS
@@ -11,7 +11,7 @@ SITTING
 STANDING
 LAYING
 
-Measurements
+###Measurements
 
  $ subId                          
  $ activityId                     
